@@ -1,0 +1,7 @@
+Chatbot.db
+__pycache__/
+.env
+Chatbot.db-shm
+Chatbot.db-wal
+chatbot.ipynb
+Expense_Tracker.py
